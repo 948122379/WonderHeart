@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: dd7ae3243b58a0b47bbc1a0e0d31d225
+timeCreated: 1483709916
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Heart_light_cord
+    100004: Heart_light_frame
+    100006: Heart_light_frame 1
+    100008: Heart_light_frame 2
+    100010: Heart_light_glass
+    100012: Heart_light_glass 1
+    100014: Heart_light_glass 2
+    100016: Heart_light_holder
+    100018: Heart_light_holder 1
+    100020: Heart_light_lampholder
+    100022: Heart_light_plug
+    100024: Heart_light_stand
+    100026: Heart_light_switch
+    100028: Heart_light_wire
+    400000: //RootNode
+    400002: Heart_light_cord
+    400004: Heart_light_frame
+    400006: Heart_light_frame 1
+    400008: Heart_light_frame 2
+    400010: Heart_light_glass
+    400012: Heart_light_glass 1
+    400014: Heart_light_glass 2
+    400016: Heart_light_holder
+    400018: Heart_light_holder 1
+    400020: Heart_light_lampholder
+    400022: Heart_light_plug
+    400024: Heart_light_stand
+    400026: Heart_light_switch
+    400028: Heart_light_wire
+    2300000: Heart_light_cord
+    2300002: Heart_light_frame
+    2300004: Heart_light_frame 1
+    2300006: Heart_light_frame 2
+    2300008: Heart_light_glass
+    2300010: Heart_light_glass 1
+    2300012: Heart_light_glass 2
+    2300014: Heart_light_holder
+    2300016: Heart_light_holder 1
+    2300018: Heart_light_lampholder
+    2300020: Heart_light_plug
+    2300022: Heart_light_stand
+    2300024: Heart_light_switch
+    2300026: Heart_light_wire
+    3300000: Heart_light_cord
+    3300002: Heart_light_frame
+    3300004: Heart_light_frame 1
+    3300006: Heart_light_frame 2
+    3300008: Heart_light_glass
+    3300010: Heart_light_glass 1
+    3300012: Heart_light_glass 2
+    3300014: Heart_light_holder
+    3300016: Heart_light_holder 1
+    3300018: Heart_light_lampholder
+    3300020: Heart_light_plug
+    3300022: Heart_light_stand
+    3300024: Heart_light_switch
+    3300026: Heart_light_wire
+    4300000: Heart_light_holder
+    4300002: Heart_light_glass
+    4300004: Heart_light_lampholder
+    4300006: Heart_light_frame
+    4300008: Heart_light_cord
+    4300010: Heart_light_stand
+    4300012: Heart_light_frame
+    4300014: Heart_light_glass
+    4300016: Heart_light_glass
+    4300018: Heart_light_holder
+    4300020: Heart_light_frame
+    4300022: Heart_light_wire
+    4300024: Heart_light_switch
+    4300026: Heart_light_plug
+    6400000: Heart_light_cord
+    6400002: Heart_light_frame
+    6400004: Heart_light_frame 1
+    6400006: Heart_light_frame 2
+    6400008: Heart_light_glass
+    6400010: Heart_light_glass 1
+    6400012: Heart_light_glass 2
+    6400014: Heart_light_holder
+    6400016: Heart_light_holder 1
+    6400018: Heart_light_lampholder
+    6400020: Heart_light_plug
+    6400022: Heart_light_stand
+    6400024: Heart_light_switch
+    6400026: Heart_light_wire
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

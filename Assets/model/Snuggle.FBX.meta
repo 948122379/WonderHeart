@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 717566dc446da8f4cba4a71c89d8023c
+timeCreated: 1483777031
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box012
+    100002: Circle01
+    100004: Cylinder024
+    100006: Line055
+    100008: Line056
+    100010: Object013
+    100012: Object014
+    100014: Object015
+    100016: Object2144
+    100018: Object2144_MeshPart0
+    100020: Object2144_MeshPart1
+    100022: Plane008
+    100024: Plane009
+    100026: pleddd
+    100028: pleddd_MeshPart0
+    100030: pleddd_MeshPart1
+    100032: pleddd_MeshPart2
+    100034: pod086
+    100036: pod087
+    100038: //RootNode
+    400000: Box012
+    400002: Circle01
+    400004: Cylinder024
+    400006: Line055
+    400008: Line056
+    400010: Object013
+    400012: Object014
+    400014: Object015
+    400016: Object2144
+    400018: Object2144_MeshPart0
+    400020: Object2144_MeshPart1
+    400022: Plane008
+    400024: Plane009
+    400026: pleddd
+    400028: pleddd_MeshPart0
+    400030: pleddd_MeshPart1
+    400032: pleddd_MeshPart2
+    400034: pod086
+    400036: pod087
+    400038: //RootNode
+    2300000: Box012
+    2300002: Circle01
+    2300004: Cylinder024
+    2300006: Line055
+    2300008: Line056
+    2300010: Object013
+    2300012: Object014
+    2300014: Object015
+    2300016: Object2144_MeshPart0
+    2300018: Object2144_MeshPart1
+    2300020: Plane008
+    2300022: Plane009
+    2300024: pleddd_MeshPart0
+    2300026: pleddd_MeshPart1
+    2300028: pleddd_MeshPart2
+    2300030: pod086
+    2300032: pod087
+    3300000: Box012
+    3300002: Circle01
+    3300004: Cylinder024
+    3300006: Line055
+    3300008: Line056
+    3300010: Object013
+    3300012: Object014
+    3300014: Object015
+    3300016: Object2144_MeshPart0
+    3300018: Object2144_MeshPart1
+    3300020: Plane008
+    3300022: Plane009
+    3300024: pleddd_MeshPart0
+    3300026: pleddd_MeshPart1
+    3300028: pleddd_MeshPart2
+    3300030: pod086
+    3300032: pod087
+    4300000: pod086
+    4300002: pleddd_MeshPart0
+    4300004: pleddd_MeshPart1
+    4300006: pleddd_MeshPart2
+    4300008: Box012
+    4300010: pod087
+    4300012: Object014
+    4300014: Object015
+    4300016: Cylinder024
+    4300018: Object013
+    4300020: Plane008
+    4300022: Line055
+    4300024: Plane009
+    4300026: Line056
+    4300028: Object2144_MeshPart0
+    4300030: Object2144_MeshPart1
+    4300032: Circle01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
